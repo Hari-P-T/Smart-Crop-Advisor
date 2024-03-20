@@ -12,7 +12,7 @@ The SmartCrop Advisor is a Python-based project that provides crop recommendatio
 - [Contributing](#contributing)
 
 ## Introduction
-Agriculture heavily depends on making informed decisions about crop selection and pest management. The SmartCrop Advisor aims to assist farmers and agricultural experts in identifying the most suitable crops for a specific location and area and provides relevant pesticide recommendations. The project uses machine learning techniques to predict crop suitability and recommends pesticides based on historical data.
+Agriculture heavily depends on making informed decisions about crop selection and pest management. The SmartCrop Advisor aims to assist farmers and agricultural experts in identifying the most suitable crops for a specific location and area and provides relevant pesticide recommendations. The project uses machine learning techniques to predict crop suitability and recommends pesticides based on historical data .
 
 ## Requirements
 - Python 3.x
